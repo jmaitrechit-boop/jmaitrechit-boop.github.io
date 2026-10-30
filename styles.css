@@ -13,3 +13,9 @@ img{
     font-size:30px;
     color:green;
 }
+
+p{
+    max-width: 800px;
+    margin: 0 auto;
+    text-align:left;
+}
