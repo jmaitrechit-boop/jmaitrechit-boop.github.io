@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    font-family:'Courier New', Courier, monospace;
+    background-color: aliceblue;
+}
+
+img{
+    width:300px;
+    object-fit: cover;
+}
+
+.backButton{
+    font-size:30px;
+    color:green;
+}
